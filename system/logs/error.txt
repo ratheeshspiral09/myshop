@@ -1,0 +1,68 @@
+2016-07-06 5:23:52 - PHP Notice:  Error: Could not load language payment/rapidefund_pay! in /var/www/opencart/system/library/language.php on line 39
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: entry_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 20
+2016-07-06 6:29:01 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: error_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 22
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: entry_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 27
+2016-07-06 6:29:01 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: error_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 29
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: entry_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 34
+2016-07-06 6:29:01 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: error_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: entry_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 41
+2016-07-06 6:29:01 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:29:01 - PHP Notice:  Undefined variable: error_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 43
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: entry_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 20
+2016-07-06 6:30:06 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: error_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 22
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: entry_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 27
+2016-07-06 6:30:06 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: error_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 29
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: entry_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 34
+2016-07-06 6:30:06 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: error_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: entry_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 41
+2016-07-06 6:30:06 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:30:06 - PHP Notice:  Undefined variable: error_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 43
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: entry_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 20
+2016-07-06 6:30:37 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: error_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 22
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: entry_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 27
+2016-07-06 6:30:37 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: error_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 29
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: entry_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 34
+2016-07-06 6:30:37 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: error_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: entry_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 41
+2016-07-06 6:30:37 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:30:37 - PHP Notice:  Undefined variable: error_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 43
+2016-07-06 6:31:51 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:31:51 - PHP Notice:  Undefined variable: error_username in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 22
+2016-07-06 6:31:51 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:31:51 - PHP Notice:  Undefined variable: error_password in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 29
+2016-07-06 6:31:51 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:31:51 - PHP Notice:  Undefined variable: error_merchant_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
+2016-07-06 6:31:51 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:31:51 - PHP Notice:  Undefined variable: error_terminal_id in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 43
+2016-07-06 6:33:08 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:33:08 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:33:08 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:33:08 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:34:07 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:34:07 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:34:07 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:34:07 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:34:25 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:34:25 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:34:25 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:34:25 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:37:24 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:37:24 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:37:24 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:37:24 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 6:40:40 - PHP Notice:  Use of undefined constant rapidefund_pay_username - assumed 'rapidefund_pay_username' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 21
+2016-07-06 6:40:40 - PHP Notice:  Use of undefined constant rapidefund_pay_password - assumed 'rapidefund_pay_password' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 28
+2016-07-06 6:40:40 - PHP Notice:  Use of undefined constant rapidefund_merchant_id - assumed 'rapidefund_merchant_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 35
+2016-07-06 6:40:40 - PHP Notice:  Use of undefined constant rapidefund_terminal_id - assumed 'rapidefund_terminal_id' in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 42
+2016-07-06 16:55:17 - PHP Notice:  Undefined variable: entry_merchant_name in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 34
+2016-07-06 16:55:17 - PHP Notice:  Undefined variable: error_merchant_name in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
+2016-07-06 16:55:51 - PHP Notice:  Undefined variable: error_merchant_name in /var/www/opencart/admin/view/template/payment/rapidefund_pay.tpl on line 36
