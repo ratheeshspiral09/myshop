@@ -1,24 +1,24 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/opencart/admin/');
-define('HTTP_CATALOG', 'http://localhost/opencart/');
+define('HTTP_SERVER', 'http://ratheeshonline.com/myshop/admin/');
+define('HTTP_CATALOG', 'http://ratheeshonline.com/myshop/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/opencart/admin/');
-define('HTTPS_CATALOG', 'http://localhost/opencart/');
+define('HTTPS_SERVER', 'http://ratheeshonline.com/myshop/admin/');
+define('HTTPS_CATALOG', 'http://ratheeshonline.com/myshop/');
 
 // DIR
-define('DIR_APPLICATION', '/var/www/html/opencart/admin/');
-define('DIR_SYSTEM', '/var/www/html/opencart/system/');
-define('DIR_DATABASE', '/var/www/html/opencart/system/database/');
-define('DIR_LANGUAGE', '/var/www/html/opencart/admin/language/');
-define('DIR_TEMPLATE', '/var/www/html/opencart/admin/view/template/');
-define('DIR_CONFIG', '/var/www/html/opencart/system/config/');
-define('DIR_IMAGE', '/var/www/html/opencart/image/');
-define('DIR_CACHE', '/var/www/html/opencart/system/cache/');
-define('DIR_DOWNLOAD', '/var/www/html/opencart/download/');
-define('DIR_LOGS', '/var/www/html/opencart/system/logs/');
-define('DIR_CATALOG', '/var/www/html/opencart/catalog/');
+define('DIR_APPLICATION', '/var/www/html/myshop/admin/');
+define('DIR_SYSTEM', '/var/www/html/myshop/system/');
+define('DIR_DATABASE', '/var/www/html/myshop/system/database/');
+define('DIR_LANGUAGE', '/var/www/html/myshop/admin/language/');
+define('DIR_TEMPLATE', '/var/www/html/myshop/admin/view/template/');
+define('DIR_CONFIG', '/var/www/html/myshop/system/config/');
+define('DIR_IMAGE', '/var/www/html/myshop/image/');
+define('DIR_CACHE', '/var/www/html/myshop/system/cache/');
+define('DIR_DOWNLOAD', '/var/www/html/myshop/download/');
+define('DIR_LOGS', '/var/www/html/myshop/system/logs/');
+define('DIR_CATALOG', '/var/www/html/myshop/catalog/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
