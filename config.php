@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://ratheeshonline.com/opencart/');
+define('HTTP_SERVER', 'http://ratheeshonline.com/myshop/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://ratheeshonline.com/opencart/');
+define('HTTPS_SERVER', 'http://ratheeshonline.com/myshop/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/myshop/catalog/');
