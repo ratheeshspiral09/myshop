@@ -13,6 +13,7 @@ function getToken(){
 	echo $action;
 	$content = getcontent($action);
 	$jsonDecoded = json_decode($content);
+	print_r($jsonDecoded);
 	return $jsonDecoded->access_token;
 }
 
